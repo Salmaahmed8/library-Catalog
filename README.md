@@ -1,7 +1,7 @@
 # Library Catalog Application
 
 ## Project Overview
-This is a simple library catalog application built using Flask and SQLAlchemy. The application allows users to manage books in a library by adding, searching, borrowing, and returning books. The data is stored in an SQLite database.
+This is a simple library catalog application built using Flask and SQLAlchemy. The application allows users to manage books in a library by adding, searching, borrowing, and returning books. The data is stored in a JSON file.
 
 ## Features
 1. **Home Page**
